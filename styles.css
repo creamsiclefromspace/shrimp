@@ -1,0 +1,20 @@
+
+    .pink {
+    color:rgb(239, 105, 125);
+}
+#big {
+    font-size: 75px;
+}
+body {
+    font-family: 'Silkscreen', cursive;
+    background-image: url(https://5.imimg.com/data5/NB/XX/EL/SELLER-44232251/frozen-shrimp-500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#textblock {
+    background-color: white;
+    width: 80%;
+}
+#shrimp {
+    
+}
